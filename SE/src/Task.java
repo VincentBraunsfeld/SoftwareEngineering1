@@ -1,5 +1,5 @@
 
-public class Task implements TaskIF {
+public class Task implements TaskIF {//Hat funktioniert
 	private String[][] zweiD;
 
 	public Task(String[][] s) {
